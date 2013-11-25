@@ -1,7 +1,11 @@
 ;(function($){
 
-    $('<input type="password">').prop({
-        value: 'Kate'
-    }).appendTo('body');
+    $(function(){
+
+    });
 
 })(jQuery);
+
+jQuery(function($){
+    $('');
+});
