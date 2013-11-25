@@ -1,2 +1,2 @@
-lesson8
+jquery-lesson
 =======
