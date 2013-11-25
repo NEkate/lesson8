@@ -1,5 +1,6 @@
 ;(function($){
 
-    console.log($('script',document.body));
+    console.log($('script') instanceof jQuery);
+    console.log($('script') instanceof Object);
 
 })(jQuery);
