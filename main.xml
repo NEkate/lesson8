@@ -1,3 +1,4 @@
 <root field="1" float="1.0">
-
+    <child type="string">sergii</child>
+    <child type="int">1</child>
 </root>
