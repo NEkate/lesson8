@@ -1,11 +1,9 @@
-;(function($){
+;(function(){
 
-    $(function(){
+    var obj = {
+        field: 1,
+        type: 'asd',
+        func: function(){}
+    }
 
-    });
-
-})(jQuery);
-
-jQuery(function($){
-    $('');
-});
+})();
