@@ -3,7 +3,8 @@
     "float": 1.0,
     "type": "asd",
     "nothing": null,
-    "array": ["", 1, 1.1, {}]
+    "bool": true,
+    "array": ["", 1, 1.1, {}],
     "obj": {
         "asd": 1
     }
